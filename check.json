@@ -1,0 +1,24 @@
+{
+  "command": [
+    "{python}",
+    "app.py"
+  ],
+  "expected": {
+    "runs": [
+      [
+        5,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "rawBytes": 10,
+    "encodedBytes": 6
+  }
+}
